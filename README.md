@@ -73,10 +73,9 @@
 
 2. Meiosis I
 - Meiosis I merupakan tahap pemisahan kromosom homolog atau pembelahan reduksional yang menghasilkan dua sel haploid dari satu sel diploid.
-- Meiosis I meliputi beberapa fase
--- Profase I :
---- Leptoten, Zigoten, Pakiten, Diploten, Diakinesis.
--- Metafase I
--- Anafase I
--- Telofase I
--- Sitokinesis I
+- Meiosis I meliputi beberapa fase:
+	1. Profase I (Leptoten, Zigoten, Pakiten, Diploten, Diakinesis).
+	2. Metafase I
+	3. Anafase I
+	4. Telofase I
+	5. Sitokinesis I
