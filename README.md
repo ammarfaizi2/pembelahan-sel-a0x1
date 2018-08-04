@@ -64,3 +64,9 @@
 
 ### Gambar Diagram Meiosis:
 <img src="https://raw.githubusercontent.com/ammarfaizi2/pembelahan-sel-a0x1/master/images/3.jpg"/>
+
+### Tahapan Meiosis:
+1. Interfase
+- Interfase adalah masa sebelum meiosis I.
+- DNA bereplikasi sehingga terbentuk dua salinan DNA.
+- Sentrosom bereplikasi menjadi dua buah.
