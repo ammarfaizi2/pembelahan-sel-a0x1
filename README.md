@@ -22,10 +22,31 @@
 - Mitosis merupakan bagian dari siklus sel. Yakni bagian yang merupakan pembelahan inti sel (nukleus) melalui tahapan-tahapan yang berurtan dan teratur. Mitosis terjadi pada sel eukariotik.
 
 ### Tahapan Mitosis:
-- Interfase
-- Profase
-- Prometafase
-- Metafase
-- Anafase
-- Telofase
-- Sitokinesis
+1. Interfase
+- Interfase : merupakan fase persiapan yang paling lama dari keseluruhan siklus sel.
+- Interfase merupakan fase antara fase mitotik yang satu dengan fase mitotik berikutnya.
+- Interfase juga fase pengumpulan energi untuk tumbuh menyalin (replikasi) DNA, menghasilkan protein dan membentuk organel sel dalam sitoplasma.
+2. Profase
+- Benang-benang kromatin dalam inti sel mulai tergulung menjadi rapat, pendek dan menebal menjadi Kromosom. Kromosom sudah tampak mengganda (berduplikasi) dan tersusun dari sepasang kromatid saudara (kembar) yang dihubungkan oleh sentromer.
+- Nukleolus menghilang sehingga tidak terjadi transkripsi DNA yang membentuk RNA.
+- Di dalam Sitoplasma mulai terbentuk gelendog mitotik yang terbuat dari mikrotobula yang memancar dari kedua sentrosom yang saling menjauh.
+3. Prometafase
+- Membran inti terfragmentasi dan melebur kemudian menghilang sehingga mikrotobula dapat memasuki inti sel dan berinteraksi dengan kromosom.
+- Berkas mikrotobula memanjang dari setiap kutub kearah pertengahan sel. Sebagian mikrotobula melekat pada kinetokor didalam sentromer, menyebabkan kromosom bergerak tersentak-sentak.
+- Mikrotobula kinetokor yakni mikrotobula yang melekat pada kinetokor sentromer.
+4. Metafase
+- Kromosom bergerak dan berjajar ditengah sel yang disebut bidang ekuatorial atau pelat metafase.
+- Sentromer dari seluruh kromosom membuat formasi satu baris, kinetokor dari kromatid saudara melekat pada mikrotobula yang berasal dari arah kutub yang berlawanan.
+5. Anafase
+- Pasangan sentromer dari setiap kromosom berpisah sehingga kromatid saudara yang semula menyatu akhirnya terpisah dan terbentuk kromosom yang lengkap.
+- Masing-masing kromatid bergerak menuju kearah kutub yang berlawanan pada saat mikrotobula kinetokor memendek.
+- Mikrotobula nonkinetor terus memanjang sehingga kutub sel berpindah lebih jauh.
+- Pada akhir Anafase, kedua kutub sel memiliki koleksi kromosom yang ekuivalen dan lengkap (2n).
+6. Telofase
+- Mikrotobula nonkinetokor memanjang lagi sehingga sel semakin panjang.
+- Terbentu nukleolus pada kedua kutub sel.
+- Kromosom di kedua kutub mulai membuka kumparannya dan berubahkembali menjadi benang-benang kromatin yang longgar.
+- Gelendog berdegenerasi, membran inti terbentuk kembali dari fragmen-fragmen membran inti sel induk dan bagian lain sistem endomembran.
+7. Sitokinesis
+- Pembelahan sitoplasma diikui dengan pembentukan sekat yang memisahkan kedua bagian sel sehingga terbentuk dan sel anakan dan dimana sel sudah sempurna membelah
+menjadi sel anakan yang sempurna.
