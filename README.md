@@ -81,10 +81,15 @@
 - Meiosis I meliputi beberapa fase:
 	1. Profase I (Leptoten, Zigoten, Pakiten, Diploten, Diakinesis).
 		-Leptoten -> Kromatin berubah menjadi kromosom.
+		
 		-Zigoten -> Sentriol bergerak ke kutub yang berlawanan, kromososm homolog berpasangan.
+		
 		-Pakiten -> Kromosom homolog masing-masing membelah sehingga membpunyai empat lengan.
+		
 		-Diploten -> Kromosom homolog agak terpisah.
+		
 		-Diakinesis -> sentriol berada di kutub yang berlawanan, terbentuk benang gelendong membran inti dan nukleolus lenyap.
+		
 	2. Metafase I
 		- Kromatid berjejer berpasangan (homolog) pada bidang ekuator.
 	3. Anafase I
