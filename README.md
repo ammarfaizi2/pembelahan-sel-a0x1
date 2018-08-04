@@ -103,5 +103,12 @@
 		- Sentromer membelah, kromatid memisah dan masing-masing bergerak ke kutub yang berlawanan.
 	4. Telofase II
 		- Membran inti dan nukleus terbentuk kembali, kromatid berubah menjadi kromatin. Sitokinesis terjadi sehingga terbentuk 4 sel anakan yang bersifat faploid.
+
 ### Gambar Pembelahan Meiosis:
 <img src="https://raw.githubusercontent.com/ammarfaizi2/pembelahan-sel-a0x1/master/images/4.jpg"/>
+
+## Meiosis Pada Pembentukan Sel Gamet
+
+### Meiosis pada pembentukan gamet (Gametogenesis) dapat dibedakan menjadi :
+- Spermatogenensis (pembentukan sperma)
+- Oogenesis (pembentukan ovum/sel telur)
