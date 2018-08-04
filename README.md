@@ -12,3 +12,5 @@
 ## Pembelahan Secara Langsung (BINER)
 - Pembelahan sel secara langsung atau spontan tanpa melalui tahap-tahap pembelahan. Sel induk akan membelah menjadi dua sel sehingga disebut pembelahan biner.
 - Contoh: Pada prokariotik (Organisme yang tidak memiliki membran inti yang membatasi nukleoplasma dengan sitoplasma) seperti Bakteri, Ganggang Biru, dll.
+- Gambar Pembelahan Biner pada bakteri:
+(Pembelahan Biner)[https://raw.githubusercontent.com/ammarfaizi2/pembelahan-sel-a0x1/master/images/1.png]
