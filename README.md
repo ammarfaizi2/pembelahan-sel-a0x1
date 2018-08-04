@@ -70,3 +70,13 @@
 - Interfase adalah masa sebelum meiosis I.
 - DNA bereplikasi sehingga terbentuk dua salinan DNA.
 - Sentrosom bereplikasi menjadi dua buah.
+
+2. Meiosis I
+- Meiosis I merupakan tahap pemisahan kromosom homolog atau pembelahan reduksional yang menghasilkan dua sel haploid dari satu sel diploid.
+- Meiosis I meliputi beberapa fase
+-- Profase I :
+--- Leptoten, Zigoten, Pakiten, Diploten, Diakinesis.
+-- Metafase I
+-- Anafase I
+-- Telofase I
+-- Sitokinesis I
