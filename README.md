@@ -104,4 +104,4 @@
 	4. Telofase II
 		- Membran inti dan nukleus terbentuk kembali, kromatid berubah menjadi kromatin. Sitokinesis terjadi sehingga terbentuk 4 sel anakan yang bersifat faploid.
 ### Gambar Pembelahan Meiosis:
-<img src="https://raw.githubusercontent.com/ammarfaizi2/pembelahan-sel-a0x1/master/images/3.jpg"/>
+<img src="https://raw.githubusercontent.com/ammarfaizi2/pembelahan-sel-a0x1/master/images/4.jpg"/>
