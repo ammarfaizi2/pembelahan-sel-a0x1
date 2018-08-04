@@ -110,5 +110,19 @@
 ## Meiosis Pada Pembentukan Sel Gamet
 
 ### Meiosis pada pembentukan gamet (Gametogenesis) dapat dibedakan menjadi :
-- Spermatogenensis (pembentukan sperma)
-- Oogenesis (pembentukan ovum/sel telur)
+- Spermatogenensis (pembentukan sperma).
+	- Spermatogenenesis pada Hewan :
+		- Yakni sel induk sperma (spermatogonium) membesar menjadi
+			- SPERMATOSIT PRIMER pada meiosis I kemudian menjadi
+			- SPERMATOSIT SEKUNDER pada meiosis II kemudian menjadi
+			- 4 SPERMATID kemudian berkembang menjadi
+			- SPERMATOZOA
+
+- Oogenesis (pembentukan ovum atau sel telur).
+	- Oogenesis pada Hewan:
+		- Sel induk telur (oogonium) membesar membentuk
+			- OOSIT PRIMER pada meiosis I kemudian menjadi
+			- OOSIT SEKUNDER dan BADAN KUTUB I pada meiosis II kemudian membelah menjadi
+			- OVUM dan BADAN KUTUB II.
+			- Hasilnya adalah 1 sel ovum yang fungsional dan 3 badan kutub
+
