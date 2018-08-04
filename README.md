@@ -15,3 +15,17 @@
 
 #### Gambar Pembelahan Biner pada bakteri:
 <img src="https://raw.githubusercontent.com/ammarfaizi2/pembelahan-sel-a0x1/master/images/1.png"/>
+
+## Pembelahan Sel Secara Tidak langsung:
+
+### Mitosis
+- Mitosis merupakan bagian dari siklus sel. Yakni bagian yang merupakan pembelahan inti sel (nukleus) melalui tahapan-tahapan yang berurtan dan teratur. Mitosis terjadi pada sel eukariotik.
+
+### Tahapan Mitosis:
+ Interfase
+ Profase
+ Prometafase
+ Metafase
+ Anafase
+ Telofase
+ Sitokinesis
