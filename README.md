@@ -125,3 +125,6 @@
 			- OOSIT SEKUNDER dan BADAN KUTUB I pada meiosis II kemudian membelah menjadi
 			- OVUM dan BADAN KUTUB II.
 			- Hasilnya adalah 1 sel ovum yang fungsional dan 3 badan kutub
+
+### Gambar Spermatogenesis:
+<img src="https://raw.githubusercontent.com/ammarfaizi2/pembelahan-sel-a0x1/master/images/5.jpg"/>
