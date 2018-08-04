@@ -22,10 +22,10 @@
 - Mitosis merupakan bagian dari siklus sel. Yakni bagian yang merupakan pembelahan inti sel (nukleus) melalui tahapan-tahapan yang berurtan dan teratur. Mitosis terjadi pada sel eukariotik.
 
 ### Tahapan Mitosis:
- Interfase
- Profase
- Prometafase
- Metafase
- Anafase
- Telofase
- Sitokinesis
+- Interfase
+- Profase
+- Prometafase
+- Metafase
+- Anafase
+- Telofase
+- Sitokinesis
