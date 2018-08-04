@@ -2,6 +2,7 @@
 ## Terbagi menjadi 2:
 ### 1. **Amitosis**
 - Tidak mengalami pembelahan
+
 ### 2. **Mitosis dan Meiosis**
 - Mengalami pembelahan.
 
@@ -48,5 +49,8 @@
 - Kromosom di kedua kutub mulai membuka kumparannya dan berubahkembali menjadi benang-benang kromatin yang longgar.
 - Gelendog berdegenerasi, membran inti terbentuk kembali dari fragmen-fragmen membran inti sel induk dan bagian lain sistem endomembran.
 7. Sitokinesis
-- Pembelahan sitoplasma diikui dengan pembentukan sekat yang memisahkan kedua bagian sel sehingga terbentuk dan sel anakan dan dimana sel sudah sempurna membelah
-menjadi sel anakan yang sempurna.
+- Pembelahan sitoplasma diikui dengan pembentukan sekat yang memisahkan kedua bagian sel sehingga terbentuk dan sel anakan dan dimana sel sudah sempurna membelah menjadi sel anakan yang sempurna.
+
+
+### Gambar Pembelahan Mitosis:
+<img src="https://raw.githubusercontent.com/ammarfaizi2/pembelahan-sel-a0x1/master/images/2.png"/>
