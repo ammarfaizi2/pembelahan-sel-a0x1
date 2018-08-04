@@ -1,4 +1,4 @@
-# Pembelahan sel
+# Pembelahan Sel
 ## Terbagi menjadi 2:
 ### 1. **Amitosis**
 - Tidak mengalami pembelahan
@@ -11,3 +11,4 @@
 
 ## Pembelahan Secara Langsung (BINER)
 - Pembelahan sel secara langsung atau spontan tanpa melalui tahap-tahap pembelahan. Sel induk akan membelah menjadi dua sel sehingga disebut pembelahan biner.
+
