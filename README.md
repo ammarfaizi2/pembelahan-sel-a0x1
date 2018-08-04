@@ -71,11 +71,37 @@
 - DNA bereplikasi sehingga terbentuk dua salinan DNA.
 - Sentrosom bereplikasi menjadi dua buah.
 
-2. Meiosis I
+2. Interkinesis
+- Periode antara meiosis I dengan meiosis II yang waktunya berbeda-beda pada tiap spesies.
+- Pada beberapa spesies, kromosom, menyebar, nukleolus dan membran inti mulai terbentuk kembali, dan terjadi interfase dahulu sebelum meiosis II. Namun pada spesies lainnya, sel anakan hasil telofase I segera mengalami pembelahan meiosis II.
+- Sebelum pembelahan meiosis II tidak terjadi replikasi DNA.
+
+3. Meiosis I
 - Meiosis I merupakan tahap pemisahan kromosom homolog atau pembelahan reduksional yang menghasilkan dua sel haploid dari satu sel diploid.
 - Meiosis I meliputi beberapa fase:
 	1. Profase I (Leptoten, Zigoten, Pakiten, Diploten, Diakinesis).
+		-Leptoten -> Kromatin berubah menjadi kromosom.
+		-Zigoten -> Sentriol bergerak ke kutub yang berlawanan, kromososm homolog berpasangan.
+		-Pakiten -> Kromosom homolog masing-masing membelah sehingga membpunyai empat lengan.
+		-Diploten -> Kromosom homolog agak terpisah.
+		-Diakinesis -> sentriol berada di kutub yang berlawanan, terbentuk benang gelendong membran inti dan nukleolus lenyap.
 	2. Metafase I
+		- Kromatid berjejer berpasangan (homolog) pada bidang ekuator.
 	3. Anafase I
+		- Masing-masing kromosom homolog bergerak ke kutub yang berlawanan.
 	4. Telofase I
-	5. Sitokinesis I
+		- Ketika membran inti dan nukleolus terbentuk kembali, sedangkan benang spindel lenyap. Membran sel terbentuk sehingga sitoplasma terbelah menjadi duan(sitokinesis) membentuk dua sel anakan yang mempunyai setengah kromosom induk.
+
+4. Meiosis II
+- Meiosis II merupakan tahap pemisahan kromatid saudara dari kromosom haploid.
+- Meiosis II meliputi beberapa fase yaitu :
+	1. Profase II
+		- Membran inti dan nukleolus lenyap. Sentriol bergerak ke kutub yang berlawanan. Sentromer terikat pada benang-benang gelendong.
+	2. Metafase II
+		- Kromatid berjejer dibidang ekuator.
+	3. Anafase II
+		- Sentromer membelah, kromatid memisah dan masing-masing bergerak ke kutub yang berlawanan.
+	4. Telofase II
+		- Membran inti dan nukleus terbentuk kembali, kromatid berubah menjadi kromatin. Sitokinesis terjadi sehingga terbentuk 4 sel anakan yang bersifat faploid.
+### Gambar Pembelahan Meiosis:
+<img src="https://raw.githubusercontent.com/ammarfaizi2/pembelahan-sel-a0x1/master/images/3.jpg"/>
