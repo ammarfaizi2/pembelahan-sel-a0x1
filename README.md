@@ -54,3 +54,13 @@
 
 ### Gambar Pembelahan Mitosis:
 <img src="https://raw.githubusercontent.com/ammarfaizi2/pembelahan-sel-a0x1/master/images/2.jpg"/>
+
+### Meiosis
+- Meiosis merupakan jenis pembelahan sel yang terjadi dalam dua tahapan! Dilakukan oleh organisme eukariotik yang berproduksi secara seksusal dan menghasilkan 4 sel gamet dengan jumlah kromosom separuh dari semula. Meiosis disebut juga Pembelahan reduktif, karena terjadi pengurangan jumlah kromosom pada sel anakan yang dihasilkan.
+- Fase-fase pada MEIOSIS :
+1. Interfase
+2. Meiosis I
+3. Meiosis II
+
+### Gambar Diagram Meiosis:
+<img src="https://raw.githubusercontent.com/ammarfaizi2/pembelahan-sel-a0x1/master/images/3.png"/>
