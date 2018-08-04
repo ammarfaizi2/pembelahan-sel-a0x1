@@ -128,3 +128,6 @@
 
 ### Gambar Spermatogenesis:
 <img src="https://raw.githubusercontent.com/ammarfaizi2/pembelahan-sel-a0x1/master/images/5.jpg"/>
+
+### Gambar Oogenesis:
+<img src="https://raw.githubusercontent.com/ammarfaizi2/pembelahan-sel-a0x1/master/images/6.jpg"/>
