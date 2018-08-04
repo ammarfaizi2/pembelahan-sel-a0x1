@@ -63,4 +63,4 @@
 3. Meiosis II
 
 ### Gambar Diagram Meiosis:
-<img src="https://raw.githubusercontent.com/ammarfaizi2/pembelahan-sel-a0x1/master/images/3.png"/>
+<img src="https://raw.githubusercontent.com/ammarfaizi2/pembelahan-sel-a0x1/master/images/3.jpg"/>
