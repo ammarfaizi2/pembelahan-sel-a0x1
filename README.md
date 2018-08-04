@@ -53,4 +53,4 @@
 
 
 ### Gambar Pembelahan Mitosis:
-<img src="https://raw.githubusercontent.com/ammarfaizi2/pembelahan-sel-a0x1/master/images/2.png"/>
+<img src="https://raw.githubusercontent.com/ammarfaizi2/pembelahan-sel-a0x1/master/images/2.jpg"/>
